@@ -7,3 +7,5 @@ Você pode gerar sua conta pelo link:
 
 Dá para criar conta gratuita sem necessidade de cartão de crédito, podendo disparar até 40.000 e-mails por mês, ideal para quem tem um site ou projeto de pequeno porte.
 Precisa apenas fazer as validações na conta de envio e domínio.
+
+Depois suba seu backend em um ambiente de produção como um **Heroku**, por exemplo, para conectar ao frontend de sua aplicação.
